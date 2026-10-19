@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WeatherProxy.Api/WeatherProxy.Api.csproj" />
+  <Project Path="WeatherProxy.Tests/WeatherProxy.Tests.csproj" />
+</Solution>
